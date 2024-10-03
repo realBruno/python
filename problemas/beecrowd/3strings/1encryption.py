@@ -1,20 +1,12 @@
 # Encryption
 # 02/10/2024
 
-# 1. avançar cada letra três casas p/ frente
+# 1. avançar cada letra três casas
+    # a = ord('a') + 3
 # 2. cada linha deve ser invertida
+    # user_string = user_string[::1]
 # 3. pegar o meio da string (truncar) e mover cada caractere uma casa à esquerda
+    # (len(user_string))//2
 
-vezesRodar = int(input())
-varCtrl = 0
-entradas = []
-
-while varCtrl < vezesRodar:
+for _ in range(int(input())):
     user_string = input()
-    entradas.append(user_string)
-    varCtrl += 1
-
-i = 0
-for entrada in entradas:
-    entrada[i] = ord(entrada[i]) + 3
-    i += 1 
