@@ -1,1 +1,1 @@
-int
+< std::endl

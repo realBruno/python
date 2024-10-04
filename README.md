@@ -4,3 +4,8 @@ Local para guardar todo meu trabalho/progresso na linguagem de programação Pyt
 # Iniciado em 01/outubro/2024.
 
 Estudarei Python todos os dias, assistirei a pelo menos três aulas do curso de Python do Luiz Otávio e farei projetos ou exercícios.
+
+* [X] 01/10/2024
+* [X] 02/10/2024 
+* [X] 03/10/2024 
+* [] 04/10/2024 
