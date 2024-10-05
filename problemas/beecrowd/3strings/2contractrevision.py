@@ -10,7 +10,7 @@ while True:
                 int(flawed) != 0:
                 print(0)
             elif set(flawed) == set(contract):
-                print()
+                break
             else:
                 contract = contract.replace(flawed,'')
                 print(int(contract))
@@ -19,3 +19,6 @@ while True:
 
     except:
         break
+
+# não precisa do try e except. percebi que o código para quando as entradas
+# são zero e int(contract) == 0.
