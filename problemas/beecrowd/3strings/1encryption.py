@@ -1,7 +1,6 @@
 # Encryption
 # 02/10/2024, 03/10/2024, 05/10/2024
 # CONSEGUI FAZERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR!!!!!!!!!!!!!!!!
-# IHUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU!!!!!!!!!!!!!!!!!!!!!
 
 orig_str_lst, str_mid_lst, encrypted_str = ([] for i in range(3))
 
