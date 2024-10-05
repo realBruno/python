@@ -5,7 +5,6 @@
     # a = ord('a') + 3
 # 2. cada linha deve ser invertida
     # user_string = user_string[::1]
-
 # 3. pegar o meio da string (truncar) e mover cada caractere uma casa à esquerda
     # (len(user_string))//2
 
@@ -23,6 +22,6 @@ for i in range(int(input())):
 # parte 2: (concluída)
 encrypted_str_reversed = [i[::-1] for i in encrypted_str]
 
-# parte 3: (concluída)
+# parte 3:
 string_size = len(encrypted_str_reversed)
 print(string_size)
