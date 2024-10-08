@@ -1,14 +1,32 @@
-""" import webbrowser
-import os
-import shutil
+linhas = 2
+colunas = 2
+ 
+linha = 1
+while linha <= linhas:
+    coluna = 1
+    while coluna <= colunas:
+        print(linha, coluna)
+        coluna += 1
+    linha += 1
 
-def add_to_startup():
-    script_path = os.path.realpath(__file__)
-    startup_folder = os.path.join(os.getenv('APPDATA'), 'Microsoft', 'Windows', 'Start Menu', 'Programs', 'Startup')
-    shutil.copy(script_path, startup_folder)
-add_to_startup()
 
-while True:
-    webbrowser.open('https://www.google.com')
+""" 
+    linha = 1
+    enquanto linha <= linhas
+    a coluna será igual a 1
+        enquanto coluna <= colunas
+            print(linha, coluna) # 1 1
+            coluna += 1 (coluna = 2)
+
+        roda mais uma vez
+        enquanto coluna <= colunas:
+            print(linha, coluna) 1 2
+
+    ...
+
+    print final = 11
+                  12
+                  21
+                  22
 
  """
