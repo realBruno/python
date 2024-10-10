@@ -1,1 +1,1 @@
-::-1]
+sentence[i].lower()
