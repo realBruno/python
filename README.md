@@ -17,3 +17,4 @@ Estudarei Python todos os dias, assistirei a pelo menos três aulas do curso de 
 * [X] 09/10/2024
 * [X] 10/10/2024
 * [X] 14/10/2024
+* [X] 15/10/2024

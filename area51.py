@@ -1,3 +1,5 @@
-lista = [[[1], 1], 1]
-for i in lista:
-    print(i)
+a = ['Bruno', 'Fernandes']
+b = a.copy()
+print(b)
+a[1] = 'Santos'
+print(b)
