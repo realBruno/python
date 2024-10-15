@@ -1,9 +1,3 @@
-story = 'O horizonte é belo'
-
-story = story.split()
-print(story[1], len(story[1]))
-
-""" 
-
-
-Se mana Piedade tem casado com Quincas Borba apenas me daria uma esperanca colateral """
+lista = [[[1], 1], 1]
+for i in lista:
+    print(i)
