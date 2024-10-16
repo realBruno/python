@@ -1,5 +1,3 @@
-a = ['Bruno', 'Fernandes']
-b = a.copy()
-print(b)
-a[1] = 'Santos'
-print(b)
+numero = 0.7
+numero1 = 0.1
+print(numero + numero1)
