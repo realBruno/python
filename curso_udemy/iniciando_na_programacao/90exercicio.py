@@ -1,5 +1,5 @@
 # Exercício
-# 15/10/2024
+# 16/10/2024
 
 shopping_list = input().split()
 

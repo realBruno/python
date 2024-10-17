@@ -1,5 +1,5 @@
 # Tipo tuplas
-# 15/10/2024
+# 16/10/2024
 
 nomes = 'Bruno', 'David', 'João', 'Priscila'
 
