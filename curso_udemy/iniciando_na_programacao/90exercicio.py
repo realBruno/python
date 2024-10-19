@@ -17,7 +17,7 @@ while True:
         for index, item in enumerate(shopping_list):
             print(f'Position: {index}, item: {item}')
         remove = input()
-        if remove.isdigit:
+        if remove.isdigit():
             del shopping_list[int(remove)]
             print('Item removed!')
         else:

@@ -10,5 +10,3 @@ idade_pessoas = [
 
 print(idade_pessoas[1][0])
 
-for j, k in range(len(idade_pessoas)):
-    print(j, k)
