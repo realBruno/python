@@ -1,1 +1,1 @@
-# gera os oito primeiros dígitos do CPF
+import random
