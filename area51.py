@@ -1,1 +1,1 @@
-print(type((('SP'))))
+print(91**8)

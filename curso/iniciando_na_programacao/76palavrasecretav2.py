@@ -5,7 +5,7 @@ import re
 import os
 import time
 
-segredo = 'bruno'
+segredo = 'perfume'
 formatada = '*'*len(segredo)
 
 print(formatada)
