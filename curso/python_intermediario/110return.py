@@ -1,3 +1,6 @@
+# Return
+# 22/10/2024
+
 variavel = print('Bruno')
 
 def retorno(a, b):
