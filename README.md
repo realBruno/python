@@ -26,3 +26,6 @@ Estudarei Python todos os dias, assistirei a pelo menos três aulas do curso de 
 * [X] 21/10/2024
 * [X] 22/10/2024
 * [X] 24/10/2024
+* [X] 27/10/2024
+Semana 28/10: sem aulas de Python. Época de prova na faculdade.
+* [X] 29/10/2024
