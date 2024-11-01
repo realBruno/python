@@ -1,7 +1,0 @@
-if hi == hf and mi == mf:
-    hora_total = 24
-elif hi == hf and mf < mi:
-    
-elif hf == hi + 1 and mf < mi:
-    hora_total = 0
-elif hf == hi 
