@@ -16,5 +16,3 @@ while toggle:
         I += 2
         J = 7
         x = 0
-
-    

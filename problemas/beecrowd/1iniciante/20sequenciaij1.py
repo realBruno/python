@@ -13,6 +13,3 @@ while toggle:
         I += 3
         J -= 5
         toggle = False
-
-
-    

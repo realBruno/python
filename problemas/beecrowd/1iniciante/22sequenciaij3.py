@@ -18,5 +18,3 @@ while toggle:
         j += 2
         J = j
         x = 0
-
-    

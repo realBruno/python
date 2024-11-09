@@ -1,2 +1,1 @@
-
-    {winner} venceu mais
+A + i
