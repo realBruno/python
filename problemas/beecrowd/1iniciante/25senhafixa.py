@@ -7,7 +7,7 @@ while toggle:
     password = input()
 
     if password == '2002':
-        print('Acesso permitido')
+        print('Acesso Permitido')
         toggle = False
     else:
         print('Senha Invalida')
