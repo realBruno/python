@@ -1,1 +1,1 @@
-nova_lista.pop(-1)
+linhas.append('')

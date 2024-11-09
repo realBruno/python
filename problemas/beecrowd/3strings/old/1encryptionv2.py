@@ -21,3 +21,4 @@ for i in range(int(input())):
 
 for palavra in palavras:
     print(palavra)
+    
