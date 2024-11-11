@@ -3,7 +3,7 @@ Local para guardar todo meu trabalho/progresso na linguagem de programação Pyt
 
 # Iniciado em 01/outubro/2024.
 
-Estudarei Python todos os dias, assistirei a pelo menos três aulas do curso de Python do Luiz Otávio e farei projetos ou exercícios.
+Estudarei Python todos os dias possíveis, assistirei a pelo menos três aulas do curso de Python do Luiz Otávio e farei projetos ou exercícios.
 
 ## DIAS ESTUDADOS:
 
@@ -38,3 +38,4 @@ Estudarei Python todos os dias, assistirei a pelo menos três aulas do curso de 
 * [X] 03/11/2024
 * [X] 08/11/2024
 * [X] 09/11/2024
+Nota: hoje, 10/11/2024, acabei de fazer a prova para residência da Embarcatech, em C. O resultado sai daqui poucos dias, e as aulas, para os aprovados, inicia em 25 deste mês. Por esse motivo, vou dividir meus estudos entre C e Python. Se eu passar, vou dar maior enfoque ao C, mas tentarei, se possível, manter os estudos de Python.

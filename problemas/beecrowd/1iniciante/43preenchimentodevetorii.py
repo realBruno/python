@@ -11,6 +11,5 @@ for i in range(1000):
     if counter >= number:
         counter = 0
     
-
 for i in range(len(N)):
     print(f'N[{i}] = {N[i]}')
