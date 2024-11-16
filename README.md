@@ -39,4 +39,5 @@ Estudarei Python todos os dias possíveis, assistirei a pelo menos três aulas d
 * [X] 08/11/2024
 * [X] 09/11/2024
 > Nota: hoje, 10/11/2024, acabei de fazer a prova para residência da Embarcatech, em C. O resultado sai daqui poucos dias, e as aulas, para os aprovados, inicia em 25 deste mês. Por esse motivo, vou dividir meus estudos entre C e Python. Se eu passar, vou dar maior enfoque ao C, mas tentarei, se possível, manter os estudos de Python.
-> Há alguns dias recebi o resultado de aprovação na Embarcatech. Desse modo, infelizmente precisarei deixar Python de lado por um tempo, pois focar em C será minha prioridade. Me diverti muito estudando Python, mesmo que por pouco tempo. Espero voltar logo!
+
+> Nota 2: Há alguns dias recebi o resultado de aprovação na Embarcatech. Desse modo, infelizmente precisarei deixar Python de lado por um tempo, pois focar em C será minha prioridade. Me diverti muito estudando Python, mesmo que por pouco tempo. Espero voltar logo!
